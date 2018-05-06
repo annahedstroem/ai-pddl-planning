@@ -1,0 +1,10 @@
+# Floortile problem
+# 1 robot, 1D
+
+param n := 3; # nb rows
+param T := 12; # time max
+param initialStock0 = 1;
+param initialStock1 = 2;
+param pattern := 1 1
+				 2 0
+				 3 1;
